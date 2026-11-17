@@ -1,6 +1,6 @@
 # Reconstruire une tribu : une géométrie cachée
 
-Programme qui accompagne le mémoire de Pierre Mathieu présenté au Prix Fermat Junior 2026.
+Programme qui accompagne le manuscrit.
 
 Il refait les calculs de la Section 7 du mémoire : pour n = 3, …, 7, le nombre de sommets et d'arêtes du graphe H_n et son diamètre (Tableau 1), ainsi que le décompte des exceptions pour n = 3 et n = 4.
 
